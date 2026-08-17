@@ -134,31 +134,5 @@ Make sure your Android or iOS environment is set up correctly.
 - **Real-time Ride Tracking**: Monitor ongoing rides.
 - **Analytics**: Generate reports on the total number of rides, earnings, and active users.
 
-## Contributing
 
-We welcome contributions to improve **Trippo**. If you'd like to contribute:
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push to your branch (`git push origin feature-name`).
-5. Open a pull request.
-
-## License
-
-**Trippo** is open-source and available under the [MIT License](LICENSE).
-
----
-
-**Trippo** - Your reliable and convenient ride-hailing solution.
-```
-
-### Key Features of the **README.md**:
-
-1. **Overview**: Explains what the app is about and how it works.
-2. **Features**: Lists all the functionalities for riders, drivers, and admins.
-3. **Tech Stack**: Describes the technologies used in building the app.
-4. **Setup Instructions**: Detailed steps for setting up the development environment, including Firebase and Stripe integration.
-5. **Usage**: Walkthrough for how the app works for riders, drivers, and admins.
-6. **Contributing**: Instructions for contributing to the project.
-7. **License**: Includes the MIT License information.
